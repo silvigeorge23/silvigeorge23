@@ -4,5 +4,6 @@ Welcome to my GitHub! I'm Silvi George, a dedicated Data Analyst with a strong f
  - Python
  - Tableau
  - Power BI
- - SQL
+ - SQL.
+   
 I enjoy tackling challenging problems and finding innovative solutions through data analysis. Feel free to explore my projects and connect with me on LinkedIn. Let's collaborate and create something impactful!
