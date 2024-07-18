@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub! I'm Silvi George, a dedicated Data Analyst with a strong foundation in biomedical science. My passion lies in transforming complex data into actionable insights, leveraging my skills in:
+Welcome to my GitHub! I'm Silvi George, a dedicated Data Analyst with a strong foundation in Biomedical Science. My passion lies in transforming complex data into actionable insights, leveraging my skills in:
  - Python
  - Tableau
  - Power BI
